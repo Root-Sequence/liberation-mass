@@ -19,6 +19,4 @@ Liberation Mass exists to provide spaces where people can:
 - express without performing
 - connect without pressure
 
-This is not about fixing people.
-
-It is about changing conditions.
+It isn't about "fixing" people, but changing conditions. 
