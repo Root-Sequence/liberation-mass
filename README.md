@@ -11,9 +11,9 @@ For quick questions, see the FAQs:
 
 ---
 
+For detailed guides, templates, and additional resources, see the [Docs Overview](docs/README.md).
 
-For detailed guides, templates, and additional resources, see the [\Docs Overview](docs/README.md).
-
+For its relationship to the wider project family, see the [Root Sequence Ecosystem Map](https://github.com/Root-Sequence/root-sequence/blob/main/ECOSYSTEM.md).
 
 ---
 
@@ -152,7 +152,7 @@ Safety applies to both Commons and Rite.
 * **Aftercare** — guidance for participants and hosts on decompression and follow-up.
 * **Sensitive info** — never post operational details publicly; use encrypted channels.
 
-For related Q\&A, see the [Accessibility & Safety section in the FAQ](FAQ-General.md#5-accessibility--safety).
+For related Q&A, see the [Accessibility & Safety section in the FAQ](FAQ-General.md#5-accessibility--safety).
 
 ---
 
@@ -220,7 +220,7 @@ Liberation Mass is one branch of the **Living Spectrum** — an ecosystem of int
 
 * **Abolition & anarchism** → non-hierarchy, mutual aid, liberation.
 * **Solarpunk** → regenerative, ecological, imaginative futures.
-* **Root Sequence philosophy** → life, death, compost, rebirth cycles. (See the [Root Sequence project](../root-sequence/README.md).)
+* **Root Sequence philosophy** → life, death, compost, rebirth cycles. (See the [Root Sequence project](https://github.com/Root-Sequence/root-sequence) and its [Ecosystem Map](https://github.com/Root-Sequence/root-sequence/blob/main/ECOSYSTEM.md).)
 
 It is both **practical** (planning, safety, campaigns) and **poetic** (ritual, music, healing, science as sacred).
 
@@ -242,8 +242,8 @@ Liberation Mass belongs to everyone. Take what you need, leave what you can.
 ## 📜 License & Contributions
 
 * **License:** [CC0 1.0](LICENSE) — public domain. Take, remix, share, and build freely. All rights liberated.
-* **Contributions:** welcome via Issues and PRs. See [CONTRIBUTING.md](CONTRIBUTING.md) and [CODE\_OF\_CONDUCT.md](CODE_OF_CONDUCT.md).
-* **Sensitive info:** don’t post names, doxxing, or security details. See [SENSITIVE\_INFO\_POLICY.md](SENSITIVE_INFO_POLICY.md).
+* **Contributions:** welcome via Issues and PRs. See [CONTRIBUTING.md](CONTRIBUTING.md) and [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md).
+* **Sensitive info:** don’t post names, doxxing, or security details. See [SENSITIVE_INFO_POLICY.md](SENSITIVE_INFO_POLICY.md).
 
 ---
 
