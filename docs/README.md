@@ -13,6 +13,7 @@ Welcome to the **docs** space for Liberation Mass.
 - **[structure.md](structure.md)** — Organizational structure and roles.
 - **[roles.md](roles.md)** — Roles within Liberation Mass.
 - **[symbols.md](symbols.md)** — Symbol systems and meanings.
+- **[idea-trails.md](idea-trails.md)** — Liberation Mass viewpoint into recurring Root Sequence Idea Trails.
 
 ---
 
@@ -74,6 +75,8 @@ Located in [`safety/`](safety/):
 ---
 
 ## 🏛️ Spaces
+
+- **[spatial-principles.md](spatial-principles.md)** — Physical-first principles: the space is part of the practice; rest/access should be distributed; digital systems translate/support the gathering rather than define it.
 
 Located in [`spaces/`](spaces/):
 
