@@ -1,6 +1,11 @@
 # Liberation Mass ↔ Community Infrastructure
 
-**Status:** Relationship note / exploratory
+**Status:** Relationship note / exploratory  
+**Idea Trails:** [Discoverability & Belonging](https://github.com/Root-Sequence/root-sequence/blob/main/IDEA_TRAILS.md#trail-1--community-discoverability-and-belonging) · [Stewardship & Authority](https://github.com/Root-Sequence/root-sequence/blob/main/IDEA_TRAILS.md#trail-2--stewardship-authority-and-power) · [Mutual Aid & Need](https://github.com/Root-Sequence/root-sequence/blob/main/IDEA_TRAILS.md#trail-3--mutual-aid-reciprocity-and-need) · [Accessibility & Participation](https://github.com/Root-Sequence/root-sequence/blob/main/IDEA_TRAILS.md#trail-5--accessibility-dependence-and-participation) · [Federation & Autonomy](https://github.com/Root-Sequence/root-sequence/blob/main/IDEA_TRAILS.md#trail-7--federation-autonomy-and-networks-of-networks) · [Maintenance & Invisible Labor](https://github.com/Root-Sequence/root-sequence/blob/main/IDEA_TRAILS.md#trail-8--maintenance-repair-and-invisible-labor)  
+**Trail role:** routing-map
+
+<!-- idea-trails: discoverability-belonging, stewardship-authority, mutual-aid-need, accessibility-participation, federation-autonomy, maintenance-invisible-labor -->
+<!-- trail-role: routing-map -->
 
 Liberation Mass and Community Infrastructure are independent projects with overlapping questions.
 
