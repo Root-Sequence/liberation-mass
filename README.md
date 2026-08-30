@@ -4,6 +4,11 @@
 
 Liberation Mass is not a church, not a cult, not a festival. It is a **gathering of souls** to practice radical empathy, celebrate reality and science, plan collective action, and imagine new worlds together. This README is intentionally **long and expansive**, offering everything you need to know in one place — so you don’t have to click around to piece it together.
 
+**Ecosystem role:** embodied practice / gathering within the wider Root Sequence ecosystem  
+**Canonical scope:** Liberation Mass gatherings, rites, Commons practice, roles, facilitation, safety, access, federation, mutual aid, and remixable cultural practice  
+**Does not own:** general Root Sequence theory, Community Infrastructure software, or Coherent World / *No One Noticed* canon  
+**Status:** active / experimental / remixable
+
 For quick questions, see the FAQs:
 
 * [General Audience FAQ](FAQ-General.md) → friendly intro for newcomers.
@@ -36,7 +41,7 @@ For its relationship to the wider project family, see the [Root Sequence Ecosyst
 * [🔮 Modules](#-modules)
 * [📖 Glossary](#-glossary)
 * [🕯️ No Leaders, Only Stewards](#-no-leaders-only-stewards)
-* [🌌 Liberation Mass in the Living Spectrum](#-liberation-mass-in-the-living-spectrum)
+* [🌌 Liberation Mass in the Root Sequence ecosystem](#-liberation-mass-in-the-root-sequence-ecosystem)
 * [🌍 How to Get Involved](#-how-to-get-involved)
 * [📜 License & Contributions](#-license--contributions)
 
@@ -51,8 +56,8 @@ Liberation Mass has **two faces**:
 
 Together, Commons and Rite form a cycle: **Commons → Rite → Commons**. The Commons provides direction and solidarity; the Rite provides energy, healing, and connection.
 
-**Who it’s for:** anyone seeking solidarity, healing, justice, and imagination — especially marginalized communities (queer, BIPOC, disabled, unsheltered, low-income, displaced).
-**What it’s for:** to heal, grow, rest, plan, resist, and celebrate.
+**Who it’s for:** anyone seeking solidarity, healing, justice, and imagination — especially marginalized communities (queer, BIPOC, disabled, unsheltered, low-income, displaced).  
+**What it’s for:** to heal, grow, rest, plan, resist, and celebrate.  
 **Why it exists:** to weave together political action (Commons) and cultural-spiritual experience (Rite) into a living practice.
 
 ---
@@ -214,15 +219,21 @@ Anyone may host or contribute. Visibility does not equal authority. Liberation M
 
 ---
 
-## 🌌 Liberation Mass in the Living Spectrum
+## 🌌 Liberation Mass in the Root Sequence ecosystem
 
-Liberation Mass is one branch of the **Living Spectrum** — an ecosystem of interdependent sequences (curiosity, intelligence, empathy, love, liberation, compost). It embodies:
+Liberation Mass is an **embodied-practice branch of the wider Root Sequence ecosystem**. It takes questions that can otherwise remain abstract—care, anti-hierarchy, mutual aid, access, consent, stewardship, collective meaning—and makes people actually practice them together.
+
+It embodies influences and recurring themes including:
 
 * **Abolition & anarchism** → non-hierarchy, mutual aid, liberation.
 * **Solarpunk** → regenerative, ecological, imaginative futures.
-* **Root Sequence philosophy** → life, death, compost, rebirth cycles. (See the [Root Sequence project](https://github.com/Root-Sequence/root-sequence) and its [Ecosystem Map](https://github.com/Root-Sequence/root-sequence/blob/main/ECOSYSTEM.md).)
+* **Root Sequence** → recursive systems thinking, interdependence, life/death/compost/rebirth, accountability, and possible futures. (See the [Root Sequence project](https://github.com/Root-Sequence/root-sequence) and its [Ecosystem Map](https://github.com/Root-Sequence/root-sequence/blob/main/ECOSYSTEM.md).)
 
-It is both **practical** (planning, safety, campaigns) and **poetic** (ritual, music, healing, science as sacred).
+Earlier project language sometimes described this family of recursive ideas as the **Living Spectrum**. That phrase can remain as poetic lineage, but it is **not a separate organizational umbrella**. The current project relationship is defined by the Root Sequence ecosystem map.
+
+Liberation Mass also has an especially useful relationship with [Community Infrastructure](docs/community-infrastructure.md): the gathering provides real situations involving discovery, newcomer uncertainty, rotating responsibility, mutual aid, accessibility, privacy, working groups, federation, and community memory that digital infrastructure can learn from without becoming required for the gathering.
+
+It is both **practical** (planning, safety, campaigns, care, mutual aid) and **poetic** (ritual, music, healing, science as sacred).
 
 ---
 
@@ -247,6 +258,6 @@ Liberation Mass belongs to everyone. Take what you need, leave what you can.
 
 ---
 
-**Liberation Mass = Commons + Rite.**
-**Liberation Mass = Healing + Planning + Celebration.**
+**Liberation Mass = Commons + Rite.**  
+**Liberation Mass = Healing + Planning + Celebration.**  
 **Liberation Mass = Souls in solidarity.**
