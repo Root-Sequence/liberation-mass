@@ -35,6 +35,7 @@ Welcome to the **docs** space for Liberation Mass.
 - **[INTEGRATION.md](INTEGRATION.md)** — Integration practices.
 - **[host-guide.md](host-guide.md)** — Hosting a Mass.
 - **[ops-bundle.md](ops-bundle.md)** — Operations bundle.
+- **[community-infrastructure.md](community-infrastructure.md)** — Exploratory relationship between Liberation Mass and the separate Community Infrastructure project: discovery, access, rotating stewardship, mutual aid, Resources, federation, and the boundary between gathering and software.
 
 ---
 
