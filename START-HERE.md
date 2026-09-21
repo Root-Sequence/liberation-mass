@@ -8,6 +8,8 @@ review_sources: README.md, FAQ-General.md, FAQ-Objections.md, docs/README.md
 review_when: gathering structure, safety, roles, status, or participation changes
 END-START-HERE-META -->
 
+For a comprehensive working briefing, continue to [PROJECT-CONTEXT.md](PROJECT-CONTEXT.md).
+
 ## In one sentence
 
 Liberation Mass is an open, remixable gathering practice for solidarity, healing, shared meaning, mutual aid, and collective action without permanent leadership or required doctrine.
