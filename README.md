@@ -1,5 +1,7 @@
 # Liberation Mass ✱
 
+> **New, returning, or overloaded? Read [START-HERE.md](START-HERE.md) for the smallest useful map.**
+
 *A living, open-source ritual and commons of solidarity, healing, and freedom.*
 
 Liberation Mass is not a church, not a cult, not a festival. It is a **gathering of souls** to practice radical empathy, celebrate reality and science, plan collective action, and imagine new worlds together. This README is intentionally **long and expansive**, offering everything you need to know in one place — so you don’t have to click around to piece it together.
