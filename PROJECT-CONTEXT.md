@@ -22,6 +22,7 @@ It is not a church, cult, festival brand, software platform, fixed doctrine, or 
 | Friendly newcomer questions | [`FAQ-General.md`](FAQ-General.md) |
 | Skepticism and risk questions | [`FAQ-Objections.md`](FAQ-Objections.md) |
 | Detailed guides and templates | [`docs/README.md`](docs/README.md) |
+| Federation, working groups, and deliberative decision practice | [`docs/federation-and-working-groups.md`](docs/federation-and-working-groups.md) |
 | Repository license | [`LICENSE`](LICENSE) |
 | Participation and contribution; license wording currently conflicts with `LICENSE` | [`CONTRIBUTING.md`](CONTRIBUTING.md) |
 | Sensitive information | [`SENSITIVE_INFO_POLICY.md`](SENSITIVE_INFO_POLICY.md) |
@@ -45,9 +46,10 @@ Liberation Mass is the ecosystem’s embodied-practice branch. It translates car
 - Consent, exit, accessibility, aftercare, and sensitive-information boundaries come first.
 - Roles share work, not unrestricted power; visibility is not authority.
 - Preserve local autonomy without hiding who bears risk or labor.
+- For consequential group decisions, use inquiry before authorization: provide enough time, access, context, and room to surface missing perspectives and preserve unresolved concerns without requiring consensus.
 - Do not publish participant identities, operational security details, or private conflict records.
 - Resolve the CC0/CC BY-SA contribution conflict deliberately before presenting contributor licensing as settled.
 
 ## Update contract
 
-Review when the Commons/Rite model, roles, safety practice, access expectations, participation routes, licensing, or ecosystem boundaries materially change.
+Review when the Commons/Rite model, roles, collective decision practice, safety practice, access expectations, participation routes, licensing, or ecosystem boundaries materially change.
