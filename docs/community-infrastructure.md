@@ -27,7 +27,7 @@ Community Infrastructure can in turn test whether digital tools can support thos
 
 Liberation Mass uses the principle:
 
-> **Roles share work, not power.**
+> **Roles share work with limited, explicit, reviewable powers.**
 
 Community Infrastructure asks the software version:
 

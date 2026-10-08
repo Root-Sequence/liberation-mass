@@ -40,7 +40,7 @@ Safety and care are at the heart of Liberation Mass, in both Commons and Rite. S
   * Accessibility check (quiet room, seating, captions).
   * Aftercare facilitation (quiet space, debrief, resources).
   * De-escalation (gentle, non-punitive care).
-* Stewards are not authority figures. They share work, not power.
+* Stewards carry limited responsibilities that may involve real safety or access powers. Define scope, authorization, duration, review, and handoff; care does not remove accountability. Repair is voluntary, and protective boundaries must not depend on forgiveness, disclosure, or renewed contact.
 
 ---
 

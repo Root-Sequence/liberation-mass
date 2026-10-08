@@ -34,7 +34,7 @@ This trail connects directly to Community Infrastructure Community Discovery.
 
 Liberation Mass's strongest contribution is:
 
-> **Roles share work, not power.**
+> **Roles share work with limited, explicit, reviewable powers.**
 
 Idea Trail questions:
 
