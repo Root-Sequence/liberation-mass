@@ -17,7 +17,7 @@ Liberation Mass is an open, remixable gathering practice for solidarity, healing
 ## If you remember only three things
 
 1. It has two linked modes: **Commons** for testimony and coordination, and **Rite** for art, ritual, rest, connection, and renewal.
-2. Roles share work, not power; stewardship rotates.
+2. Roles share work with limited, explicit, reviewable powers; stewardship rotates.
 3. Consent, access, exit, safety, and aftercare are core infrastructure—not optional polish.
 
 ## Current reality

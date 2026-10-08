@@ -7,7 +7,7 @@ Shared language helps keep Liberation Mass clear and consistent. These terms app
 ## 🌑 Core Terms
 
 * **Souls** — all participants; equals in dignity. Souls are never attendees or spectators.
-* **Stewards** — rotating caretakers of safety, consent, access, and aftercare. Stewards share work, not power.
+* **Stewards** — rotating caretakers of safety, consent, access, and aftercare. Stewards share work with limited, explicit, reviewable powers.
 * **Roles** — Guides, Weavers, Witnesses, Wolves, Ravens, and Stewards. Rotating functions that distribute care and tasks.
 
 ---

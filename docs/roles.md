@@ -6,7 +6,7 @@ Liberation Mass has **no leaders**. Instead, it is held together by rotating rol
 
 ## 🚫 Why We Don’t Have Leaders
 
-Authority — even with good intentions — tends to reproduce the systems we seek to undo. By refusing fixed leadership, we prevent hierarchy from forming and keep liberation alive in practice, not just in words.
+Authority — even with good intentions — tends to reproduce the systems we seek to undo. Refusing fixed leadership is a design commitment, not proof that hierarchy cannot form. Facilitation, safety, access, resources, and expertise can still concentrate power; name their limits, review, and handoff.
 
 **Problems with Leaders & Authority:**
 
@@ -19,8 +19,8 @@ Authority — even with good intentions — tends to reproduce the systems we se
 **Our Alternative:**
 
 * Roles are **tools, not thrones**.
-* **Authority rests in the circle, not a person.** Everyone is accountable, everyone is capable.
-* **Resilience comes from distribution.** Shared responsibility means the movement cannot be decapitated.
+* **Shared decisions need explicit authorization.** A role can carry limited power; equal dignity does not imply equal capacity or unlimited responsibility.
+* **Resilience comes from distribution.** Shared responsibility can reduce dependence on one person; practical handoffs and safe capacity still need testing.
 
 ---
 
@@ -81,14 +81,14 @@ Roles exist in balance:
 
 * Roles rotate every season or cycle (local groups may define timing).
 * At least two souls per role; one may continue while another rotates in.
-* Rotation prevents hierarchy and spreads skills.
+* Rotation can spread skills; review informal influence, uneven work, and whether handoffs actually succeed.
 
 ---
 
 ## 🕯️ Principles
 
-* Roles exist to **share work, not power**.
+* Roles share work with **limited, explicit, reviewable powers**.
 * Stewards are not leaders.
 * All souls are equal in dignity.
 
-Liberation Mass is a commons. Roles keep the cycle alive without creating hierarchy.
+Liberation Mass is a commons. Roles should sustain the cycle while making actual powers answerable. For each consequential responsibility, state scope, authorization, duration, review, rotation, and handoff. See [the commons review](principles.md#reviewing-the-gathering-as-a-commons).

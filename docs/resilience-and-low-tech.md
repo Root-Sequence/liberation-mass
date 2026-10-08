@@ -146,7 +146,7 @@ Useful practices:
 - no single phone/account contains the only copy of the plan;
 - local adaptations are documented enough to hand off.
 
-This operationalizes “roles share work, not power.”
+This supports shared work with limited, explicit, reviewable powers; handoff must preserve access and safety boundaries rather than distribute unrestricted credentials.
 
 ---
 
