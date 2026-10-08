@@ -6,7 +6,8 @@ How to combine themes and learnings from multiple node logs into a federation-wi
 
 ## Principles
 
-* **Anonymity:** never include names or identifying details
+* **Minimization:** omit names and identifying combinations; an unnamed theme can still identify someone
+* **Consent and scope:** local logs do not authorize federation or publication; share only a separately reviewed, permitted summary
 * **Themes not transcripts:** capture patterns, not raw data
 * **Accessibility:** keep summary short, clear, and shareable
 
@@ -16,7 +17,7 @@ How to combine themes and learnings from multiple node logs into a federation-wi
 
 1. **Collect Logs**
 
-   * Each node shares their `commons-log.md` entries after gatherings
+   * Each node may offer an explicitly permitted, minimized summary after consent and disclosure review; raw local logs stay local
    * Use encrypted or trusted channel if sensitive
 
 2. **Sift for Themes**
@@ -46,4 +47,4 @@ How to combine themes and learnings from multiple node logs into a federation-wi
 
 ---
 
-**In short:** Aggregation builds a memory commons without surveillance — just patterns, learnings, and questions.
+**Limit:** Aggregation can still expose people or distort context. Review audience, retention, small-group identification, and permissions before sharing; omit material when a safe summary is unavailable. These templates describe a proposed process, not an established federation.

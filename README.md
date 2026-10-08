@@ -76,7 +76,7 @@ Together, Commons and Rite form a cycle: **Commons → Rite → Commons**. The C
 * **Decentralization** → rotating roles, local autonomy, remixable content. (See [Roles & Rotations](#-roles--rotations).)
 * **Anti-profit** → sliding-scale, transparency, mutual aid first.
 * **License** → [CC0 1.0](LICENSE) so ideas remain in the commons.
-* **No leaders, only stewards** → roles share work, not power. (See [No Leaders, Only Stewards](#-no-leaders-only-stewards).)
+* **No leaders, only stewards** → roles share work with limited, explicit, reviewable responsibilities. (See [No Leaders, Only Stewards](#-no-leaders-only-stewards).)
 
 Applies to both Commons and Rite.
 
@@ -124,7 +124,7 @@ Liberation Mass has **no fixed leaders**. Roles rotate seasonally, with at least
 * **Wolves** — convene trainings and skillshares.
 * **Ravens** — experienced advisors, offering insight without holding power.
 
-Roles are not authority; they are shared care. (See [No Leaders, Only Stewards](#-no-leaders-only-stewards).)
+Roles can carry real powers over facilitation, access, resources, or safety. State those powers, their limits, review, rotation, and handoff; shared care does not make power disappear. (See [No Leaders, Only Stewards](#-no-leaders-only-stewards).)
 
 ---
 
@@ -215,7 +215,7 @@ Optional add-ons to enrich gatherings:
 Liberation Mass has **no leaders**. There are only souls and rotating stewards.
 
 * **Souls**: everyone who attends or contributes. All souls are equal in dignity.
-* **Stewards**: caretakers of roles; they share work, not power.
+* **Stewards**: caretakers with limited, explicit, reviewable responsibilities; their powers over facilitation, access, resources, and safety must remain accountable.
 
 Anyone may host or contribute. Visibility does not equal authority. Liberation Mass is open-source and remixable.
 
@@ -263,3 +263,7 @@ Liberation Mass belongs to everyone. Take what you need, leave what you can.
 **Liberation Mass = Commons + Rite.**  
 **Liberation Mass = Healing + Planning + Celebration.**  
 **Liberation Mass = Souls in solidarity.**
+
+## Learning from the commons
+
+The [principles review](docs/principles.md#reviewing-the-gathering-as-a-commons) makes real role powers, dissent, voluntary repair, and sustainable staffing explicit. The [local log](docs/commons-log.md) and [aggregation guide](docs/commons-log-aggregation.md) distinguish permission to reflect locally from permission to share. Removing names does not by itself make a record safe or authorized for publication.

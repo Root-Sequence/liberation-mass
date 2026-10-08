@@ -33,7 +33,7 @@ Principles keep us oriented when conditions change. Without them, groups drift t
 * **Mutual aid & reciprocity** — help each other meet needs; share resources and care.
 * **Decentralization** — rotating roles, local autonomy, remixable content.
 * **Anti-profit** — sliding-scale, transparency, mutual aid first.
-* **No leaders, only stewards** — roles exist to share work, not power.
+* **No leaders, only stewards** — roles share work and carry limited, explicit, reviewable responsibilities; they do not grant general authority.
 * **License** — CC0 (public domain) so ideas remain in the commons.
 
 ---
@@ -75,3 +75,11 @@ Liberation Mass principles are rooted in and connected to:
 * **Living Spectrum / Root Sequence** → cycles of curiosity, intelligence, empathy, love, liberation, compost.
 
 These principles guide every Mass, whether Commons or Rite, large or small, local or global.
+
+## Reviewing the gathering as a commons
+
+**Proposed practice questions, not evidence that gatherings already meet them.** Make room for disagreement, silence, resting, declining a ritual, and leaving. A useful contribution need not take the form of testimony or agreement. Welcoming people does not require tolerating coercion, harassment, or sabotage.
+
+Before a consequential role is used, state who can act, over what, under whose authorization, for how long, and with which review and handoff. Rotation alone does not remove informal hierarchy or uneven maintenance. Scale a gathering down if safe staffing and access cannot be sustained.
+
+Repair is voluntary; it must not require forgiveness, disclosure, reconciliation, or renewed contact. Preserve protective boundaries where needed. Use optional, minimal reflection to notice participation barriers and displaced work, including ordinary failures without malicious actors. Revise the practice rather than score people or demand more attendance.

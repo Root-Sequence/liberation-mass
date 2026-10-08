@@ -1,6 +1,6 @@
 # Commons Log Template (docs/commons-log.md)
 
-A lightweight log for tracking themes, repairs, seeds, and learnings across gatherings. Anonymous by default.
+A lightweight log for tracking themes, repairs, seeds, and learnings across gatherings. Minimized and local by default; unnamed records are not automatically anonymous or safe to share.
 
 ---
 
@@ -53,4 +53,6 @@ A lightweight log for tracking themes, repairs, seeds, and learnings across gath
 
 ---
 
-**Reminder:** This log is collective memory, not surveillance. Keep it anonymous, minimal, and useful.
+**Reminder:** Record only purpose-relevant information with the appropriate permission, audience, and retention period. Dates, locations, rare events, exact quotations, and combinations of details can identify people even without names. Omit or generalize them where needed. Safety reports and aftercare records need their own restricted process, not this shared log.
+
+Local reflection does not authorize federation or public sharing. Review a separate summary for consent, re-identification risk, audience, and necessary detail before any release. Participation in a gathering is not consent to recording or research.
